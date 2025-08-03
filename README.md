@@ -2,6 +2,17 @@
 
 A React app for tracking shared expenses with friends. Easily add friends, select who you’re splitting a bill with, and keep track of who owes whom!
 
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/df1e69cc-2879-4235-8b01-8cca9bf48869" />
+
+<img width="1913" height="894" alt="image" src="https://github.com/user-attachments/assets/c7bdc527-7f26-4022-9b0d-8c9bbbf92ca5" />
+
+<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/4fc037d3-6a8e-440a-8d7f-1a34b80aca6f" />
+
+<img width="1916" height="900" alt="image" src="https://github.com/user-attachments/assets/9f40a3f0-0ede-4303-a568-aa2632062a98" />
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/235b592a-1d6d-45b2-bc8d-7b2058f67a3b" />
+
+
 ## Features
 
 - Add friends with a name and avatar.
